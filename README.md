@@ -3,6 +3,8 @@
 
 ### Overview of connectons.
 <img src="https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/mainImg.PNG"/>
+
+
 ---
 
 ### HQ.
