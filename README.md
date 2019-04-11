@@ -2,8 +2,7 @@
 
 
 ### Overview of connectons.
-<img src"./resources/img/mainImg.png"> 
-![alt text](./resources/img/mainImg.png "Logo Title Text 1")
+![alt text](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/mainImg.PNG "Logo Title Text 1")
 
 ---
 
@@ -20,7 +19,7 @@
     * EtherChennel.
     * HSRP.
 * Diagram
-    * [HQ]()
+    * [HQ](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/tree/master/HQ)
     
 ---
 
@@ -35,8 +34,8 @@
     * EtherChennel?
     * DHCP.
 * Diagram
-    * [ISP 1]()
-    * [ISP 2]()
+    * [ISP 1](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/tree/master/ISP1)
+    * [ISP 2](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/tree/master/ISP2)
 
 ---
 
@@ -52,7 +51,7 @@
     * EtherChennel?
     * DHCP.
 * Diagram
-    * [Internet(ISP)]()
+    * [Internet(ISP)](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/tree/master/Internet(ISP))
     
 ---
 

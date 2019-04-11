@@ -1,7 +1,7 @@
 # Internet(ISP)
 
 ### Connections Diagram.
-![alt text](../resources/img/Internet.png "Logo Title Text 1")
+![alt text](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/Internet.PNG "Logo Title Text 1")
 
 ### Devises
 * Routers.

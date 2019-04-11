@@ -1,7 +1,7 @@
 # ISP 1
 
 ### Connections Diagram.
-![alt text](../resources/img/ispImg.png "Logo Title Text 1")
+![alt text](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/ispImg.PNG"Logo Title Text 1")
 
 ### Devises
 * Routers.

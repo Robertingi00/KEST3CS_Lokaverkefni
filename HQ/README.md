@@ -1,7 +1,7 @@
 # HQ
 
 ### Connections Diagram.
-![alt text](../resources/img/hqImg.png "Logo Title Text 1")
+![alt text](https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/hqImg.PNG"Logo Title Text 1")
 
 ### Devises
 * Routers.
