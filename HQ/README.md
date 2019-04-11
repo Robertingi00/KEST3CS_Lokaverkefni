@@ -1,7 +1,7 @@
 # HQ
 
 ### Connections Diagram.
-<img src="https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/hqImg.PNG" width="100%" >
+<img src="https://raw.githubusercontent.com/Robertingi00/KEST3CS_Lokaverkefni/master/resources/img/hqImg.PNG" width="100%" >
 
 
 ### Devises
