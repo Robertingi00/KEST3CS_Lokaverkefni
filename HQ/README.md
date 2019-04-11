@@ -5,7 +5,7 @@
 
 
 ### Devises
-* Routers.
+* #### Routers.
     * Core 1
         * Interfaces.
             * Ga0/0:
@@ -43,13 +43,13 @@
                 * Ip address:
                 * Subnetmask:
 
-* Multilayer Switchers.
+* #### Multilayer Switchers.
     * DIS 1.
         * Interfaces.
     * DIS 2.
         * Interfaces.
         
-* Switches. 
+* #### Switches. 
 
     * Vlan
         * Floor1
@@ -70,7 +70,7 @@
     * Floor 3.
         * Interfaces.
         
-* PC.
+* #### PC.
     * PC0.
         * Ip address:
         * Subnet mask:
@@ -81,7 +81,7 @@
         * Ip address:
         * Subnet mask:
 
-* Servers.
+* #### Servers.
     * Server 1.
         * Ip address:
         * Subnet mask:

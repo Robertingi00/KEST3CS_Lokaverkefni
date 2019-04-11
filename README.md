@@ -8,74 +8,74 @@
 ---
 
 ### HQ.
-* Ip Protocal.
+* #### Ip Protocal.
     * Ipv4
-* Design.
+* #### Design.
     * Collapsed core.
-* Dynamic Routing Protocal.
+* #### Dynamic Routing Protocal.
     * EIGRP.
-* Others Protocals.
+* #### Others Protocals.
     * VTP.
     * Spanning Tree.
     * EtherChennel.
     * HSRP.
-* Diagram
+* #### Diagram
     * [HQ](./HQ)
     
 ---
 
 ### ISP 1 & ISP 2.
-* Ip Protocal.
+* #### Ip Protocal.
     * Ipv4
-* Design.
+* #### Design.
     * N/A
-* Dynamic Routing Protocal.
+* #### Dynamic Routing Protocal.
     * OSPF/BGP.
-* Others Protocals.
+* ####Others Protocals.
     * EtherChennel?
     * DHCP.
-* Diagram
+* #### Diagram
     * [ISP 1](./ISP1)
     * [ISP 2](./ISP2)
 
 ---
 
 ### Internet(ISP).
-* Ip Protocal.
+* #### Ip Protocal.
     * Ipv4
     * Ipv6
-* Design.
+* #### Design.
     * N/A
-* Dynamic Routing Protocal.
+* #### Dynamic Routing Protocal.
     * OSPF.
-* Others Protocals.
+* #### Others Protocals.
     * EtherChennel?
     * DHCP.
-* Diagram
+* #### Diagram
     * [Internet(ISP)](./Internet(ISP))
     
 ---
 
 ### Home 1 - 4.
-* Ip Protocal.
+* #### Ip Protocal.
     * Ipv4
-* Design.
+* #### Design.
     * N/A.
-* Dynamic Routing Protocal.
+* #### Dynamic Routing Protocal.
     * N/A.
-* Others Protocals.
+* #### Others Protocals.
     * DHCP
     * WIFI
 ---
 
 ### Home 5 - 6.
-* Ip Protocal.
+* #### Ip Protocal.
     * Ipv4
     * Ipv6
-* Design.
+* #### Design.
     * N/A.
-* Dynamic Routing Protocal.
+* #### Dynamic Routing Protocal.
     * N/A.
-* Others Protocals.
+* #### Others Protocals.
     * DHCP
     * WIFI

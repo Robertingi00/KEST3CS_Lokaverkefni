@@ -4,7 +4,7 @@
 <img src="https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/ispImg.PNG?raw=true">
 
 ### Devises
-* Routers.
+* #### Routers.
     * ISPEdge.
         * Interfaces.
             * Ga0/0:
@@ -41,13 +41,13 @@
                 * Subnetmask:
         * OSPF
             * RouterID:
-* Switches.
+* #### Switches.
     * FiberSwitch.
         * Interfaces.
         
         
         
-* Servers.
+* #### Servers.
 
     * DNS.
         * Description:
