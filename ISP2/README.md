@@ -1,7 +1,7 @@
 # ISP 2
 
 ### Connections Diagram.
-<img src="https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/ispImg2.PNG" width="100%" >
+<img src="https://github.com/Robertingi00/KEST3CS_Lokaverkefni/blob/master/resources/img/ispImg2.PNG?raw=true" width="100%" >
 
 ### Devises
 * Routers.
